@@ -2,7 +2,7 @@
  * @Author: laoli233333 2025571469@qq.com
  * @Date: 2022-05-31 15:46:35
  * @LastEditors: laoli233333 2025571469@qq.com
- * @LastEditTime: 2022-05-31 15:46:58
+ * @LastEditTime: 2022-05-31 15:48:57
  * @FilePath: \laoli233333\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -37,4 +37,4 @@
 [![](https://activity-graph.herokuapp.com/graph?username=laoli233333&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![laoli233333's github stats](https://github-readme-stats.vercel.app/api?username=laoli233333&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFxFc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laoli233333)

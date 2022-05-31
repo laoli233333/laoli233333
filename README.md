@@ -1,3 +1,11 @@
+<!--
+ * @Author: laoli233333 2025571469@qq.com
+ * @Date: 2022-05-31 15:46:35
+ * @LastEditors: laoli233333 2025571469@qq.com
+ * @LastEditTime: 2022-05-31 15:46:58
+ * @FilePath: \laoli233333\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <img align="right" src="https://count.getloli.com/get/@:laoli233333?theme=rule34">
 
 ## 运维开发—老李
@@ -9,7 +17,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 -   <a href="https://space.bilibili.com/31524143"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：发发日常也是个vup
--   <a href="https://www.amonguscn.cn/"><code><img height="20" width="50" src="./images/avatar.jpg"></code></a>：汉化组网站
+-   <a href="https://www.amonguscn.cn/"><code><img height="50" width="50" src="./images/avatar.jpg"></code></a>：汉化组网站
 
 
 ### **技术栈:**
